@@ -1,0 +1,34 @@
+Using PDB ID: 1A3N, Roll No: 22CS10020
+Downloading 1A3N from RCSB PDB...
+Downloaded 1A3N.pdb and 1A3N.fasta successfully
+Extracting sequences from 1A3N.pdb and 1A3N.fasta...
+Found FASTA sequence for chain H: 141 residues
+PDB chains found: A, B, C, D
+FASTA chains found: H
+Checking for chain breaks...
+Warning: Chain A found in PDB but not in FASTA
+Warning: Chain B found in PDB but not in FASTA
+Warning: Chain C found in PDB but not in FASTA
+Warning: Chain D found in PDB but not in FASTA
+Running NACCESS for surface area calculations...
+Found NACCESS at: /home/dadi/Downloads/naccess/naccess/naccess
+Found vdw.radii at: /home/dadi/Downloads/naccess/naccess/vdw.radii
+Found standard.data at: /home/dadi/Downloads/naccess/naccess/standard.data
+Found accall at: /home/dadi/Downloads/naccess/naccess/accall
+Running NACCESS command: /home/dadi/Downloads/naccess/naccess/naccess 1A3N.pdb -r /home/dadi/Downloads/naccess/naccess/vdw.radii -s /home/dadi/Downloads/naccess/naccess/standard.data
+Warning: NACCESS failed with exit status 1
+Error output from NACCESS:
+/accall: Command not found.
+
+Analysis completed. Results written to A1_1A3N.txt
+  adding: A122CS10020/ (stored 0%)
+  adding: A122CS10020/main.py (deflated 72%)
+  adding: A122CS10020/A1_1A3N.txt (deflated 62%)
+  adding: A122CS10020/A1_2UV0.txt (deflated 58%)
+  adding: A122CS10020/README.txt (deflated 42%)
+  adding: A122CS10020/A1_22CS10020.py (deflated 72%)
+  adding: A122CS10020/1A3N.pdb (deflated 77%)
+  adding: A122CS10020/1A3N.fasta (deflated 35%)
+  adding: A122CS10020/2UV0.fasta (deflated 27%)
+  adding: A122CS10020/2UV0.pdb (deflated 78%)
+All files organized and zipped as A122CS10020.zip
