@@ -1,0 +1,13 @@
+Analysis of PDB ID: 1A3N
+==================================================
+
+Number of chains identified: 4
+
+Chain Information:
+--------------------------------------------------
+Chain A: 141 amino acids, Molecular Weight: 17666.33 Da, ASA: 0.00 Å²
+Chain B: 145 amino acids, Molecular Weight: 18380.19 Da, ASA: 0.00 Å²
+Chain C: 141 amino acids, Molecular Weight: 17666.33 Da, ASA: 0.00 Å²
+Chain D: 145 amino acids, Molecular Weight: 18380.19 Da, ASA: 0.00 Å²
+
+No chain breaks detected.
