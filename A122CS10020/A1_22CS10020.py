@@ -261,7 +261,7 @@ def parse_arguments():
     return parser.parse_args()
 
 def main():
-    default_pdb_id = "2UV0"
+    default_pdb_id = "1A3N"
     default_roll_no = "22CS10020"
     args = parse_arguments()
     pdb_id = args.pdb_id if args.pdb_id else default_pdb_id
@@ -342,7 +342,7 @@ def main():
         os.system(f"cp A1_22CS10020.py {dirname}/main.py")
     # Create a ZIP archive of the project directory.
     try:
-        subprocess.run(["zip", "-r", f"A1{roll_no}.zip", dirname], check=True)
+        subprocess.run(["zip", "-r", f"A1_{roll_no}.zip", dirname], check=True)
     except Exception as e:
         print(f"Error creating zip file: {e}")
         os.system(f"zip -r A1{roll_no}.zip {dirname}")
