@@ -1,0 +1,13 @@
+Analysis of PDB ID: 2UV0
+==================================================
+
+Number of chains identified: 4
+
+Chain Information:
+--------------------------------------------------
+Chain E: 159 amino acids, Molecular Weight: 20565.04 Da, ASA: 7664.90 Å²
+Chain F: 160 amino acids, Molecular Weight: 20698.14 Da, ASA: 7607.00 Å²
+Chain G: 162 amino acids, Molecular Weight: 20888.42 Da, ASA: 7445.80 Å²
+Chain H: 163 amino acids, Molecular Weight: 21035.55 Da, ASA: 7732.10 Å²
+
+No chain breaks detected.
